@@ -1,0 +1,23 @@
+Supplier,Invoice Number,Invoice Date,Total
+Dairy supplier A,DA-48213,05/10/2026,"1,642.50"
+Fresh produce supplier B,FP-30917,05/10/2026,"2,915.62"
+Packaging supplier C,PK-7714,05/10/2026,"2,368.80"
+Haulage supplier D,HD/2291,05/10/2026,860.00
+Dry goods supplier E,DG-10482,05/10/2026,"3,912.15"
+Cleaning supplier F,CS-5520,06/10/2026,318.40
+Frozen foods supplier G,FZ-88140,06/10/2026,"4,207.36"
+Chilled foods supplier H,CH-55131,06/10/2026,"1,184.40"
+Drinks supplier J,DR-6603,06/10/2026,"2,740.80"
+Waste supplier K,WC-1187,07/10/2026,395.00
+Dairy supplier A,DA-48266,07/10/2026,"1,588.20"
+Packaging supplier C,PK-7731,07/10/2026,"2,368.80"
+Bakery supplier L,BK-20419,07/10/2026,"1,076.25"
+Fresh produce supplier B,FP-30988,08/10/2026,"2,104.18"
+Chilled foods supplier H,CH-55098,01/10/2026,"1,184.40"
+Energy supplier M,EL-774102,08/10/2026,"3,486.91"
+Frozen foods supplier G,FZ-88177,08/10/2026,"3,955.10"
+Haulage supplier D,HD/2304,09/10/2026,"1,245.00"
+Dry goods supplier E,DG 10482,09/10/2026,"3,912.15"
+Pallet supplier N,PL-0456,09/10/2026,540.00
+Waste supplier K,WC-1150,09/09/2026,395.00
+Chilled foods supplier H,CN-2210,07/10/2026,-1184.40

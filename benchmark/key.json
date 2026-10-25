@@ -1,0 +1,6187 @@
+{
+ "seed": 23,
+ "rows": 1924,
+ "duplicates": [
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-1",
+   "original": {
+    "row": 1255,
+    "supplier": "Software supplier T Trading",
+    "number": "ST/3325",
+    "date": "2025-08-17",
+    "amount": 2179.4
+   },
+   "duplicates": [
+    {
+     "row": 1312,
+     "supplier": "Software supplier T Trading",
+     "number": "ST-3387",
+     "date": "2025-08-26",
+     "amount": 2179.4
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-2",
+   "original": {
+    "row": 997,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB20262",
+    "date": "2025-07-05",
+    "amount": 6065.36
+   },
+   "duplicates": [
+    {
+     "row": 1054,
+     "supplier": "Fresh produce supplier B Supplies",
+     "number": "FPB20406",
+     "date": "2025-07-13",
+     "amount": 6065.36
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-3",
+   "original": {
+    "row": 41,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG-45008",
+    "date": "2025-01-06",
+    "amount": 190
+   },
+   "duplicates": [
+    {
+     "row": 93,
+     "supplier": "Waste supplier G2 & Sons",
+     "number": "WG-45134",
+     "date": "2025-01-16",
+     "amount": 190
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-4",
+   "original": {
+    "row": 1278,
+    "supplier": "Fish supplier I2 & Sons",
+    "number": "FI/44541",
+    "date": "2025-08-21",
+    "amount": 3169.17
+   },
+   "duplicates": [
+    {
+     "row": 1331,
+     "supplier": "Fish supplier I2 & Sons",
+     "number": "FI/44694",
+     "date": "2025-09-01",
+     "amount": 3169.17
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-5",
+   "original": {
+    "row": 1238,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG/70805",
+    "date": "2025-08-14",
+    "amount": 869.55
+   },
+   "duplicates": [
+    {
+     "row": 1320,
+     "supplier": "Frozen foods supplier G Limited",
+     "number": "FFG-70832",
+     "date": "2025-08-28",
+     "amount": 869.55
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-6",
+   "original": {
+    "row": 743,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE/23838",
+    "date": "2025-05-20",
+    "amount": 1062.86
+   },
+   "duplicates": [
+    {
+     "row": 843,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE-23962",
+     "date": "2025-06-07",
+     "amount": 1062.86
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-7",
+   "original": {
+    "row": 1179,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82433",
+    "date": "2025-08-05",
+    "amount": 2969.51
+   },
+   "duplicates": [
+    {
+     "row": 1199,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82598",
+     "date": "2025-08-09",
+     "amount": 2969.51
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-8",
+   "original": {
+    "row": 1139,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23642",
+    "date": "2025-07-27",
+    "amount": 4786.7
+   },
+   "duplicates": [
+    {
+     "row": 1170,
+     "supplier": "Uniform supplier K2 Supplies",
+     "number": "UK-23853",
+     "date": "2025-08-03",
+     "amount": 4786.7
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-9",
+   "original": {
+    "row": 995,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF/20094",
+    "date": "2025-07-05",
+    "amount": 1299.05
+   },
+   "duplicates": [
+    {
+     "row": 1006,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF-20227",
+     "date": "2025-07-06",
+     "amount": 1299.05
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-10",
+   "original": {
+    "row": 932,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15506",
+    "date": "2025-06-22",
+    "amount": 2567.55
+   },
+   "duplicates": [
+    {
+     "row": 1011,
+     "supplier": "Waste supplier M Services",
+     "number": "WM-15636",
+     "date": "2025-07-06",
+     "amount": 2567.55
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-11",
+   "original": {
+    "row": 26,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15584",
+    "date": "2025-01-04",
+    "amount": 6499.04
+   },
+   "duplicates": [
+    {
+     "row": 53,
+     "supplier": "Waste supplier M Services",
+     "number": "WM-15642",
+     "date": "2025-01-09",
+     "amount": 6499.04
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-12",
+   "original": {
+    "row": 1444,
+    "supplier": "Dairy supplier U Trading",
+    "number": "DU20537",
+    "date": "2025-09-22",
+    "amount": 3067.16
+   },
+   "duplicates": [
+    {
+     "row": 1473,
+     "supplier": "Dairy supplier U Trading",
+     "number": "DU20680",
+     "date": "2025-09-29",
+     "amount": 3067.16
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-13",
+   "original": {
+    "row": 591,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF/20100",
+    "date": "2025-04-23",
+    "amount": 4994.25
+   },
+   "duplicates": [
+    {
+     "row": 627,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF20228",
+     "date": "2025-04-28",
+     "amount": 4994.25
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-14",
+   "original": {
+    "row": 1117,
+    "supplier": "Frozen foods supplier A2 Group",
+    "number": "FFA-53887",
+    "date": "2025-07-25",
+    "amount": 1115.89
+   },
+   "duplicates": [
+    {
+     "row": 1202,
+     "supplier": "Frozen foods supplier A2 Group",
+     "number": "FFA/54006",
+     "date": "2025-08-09",
+     "amount": 1115.89
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-15",
+   "original": {
+    "row": 1026,
+    "supplier": "Fish supplier O Services",
+    "number": "FO-33402",
+    "date": "2025-07-09",
+    "amount": 2557.19
+   },
+   "duplicates": [
+    {
+     "row": 1148,
+     "supplier": "Fish supplier O Services",
+     "number": "FO/33431",
+     "date": "2025-07-28",
+     "amount": 2557.19
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-16",
+   "original": {
+    "row": 1361,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS74992",
+    "date": "2025-09-07",
+    "amount": 3189.84
+   },
+   "duplicates": [
+    {
+     "row": 1398,
+     "supplier": "Insurance supplier S Ltd",
+     "number": "IS/75167",
+     "date": "2025-09-14",
+     "amount": 3189.84
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-17",
+   "original": {
+    "row": 245,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85720",
+    "date": "2025-02-12",
+    "amount": 3408.82
+   },
+   "duplicates": [
+    {
+     "row": 272,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK/85977",
+     "date": "2025-02-15",
+     "amount": 3408.82
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-18",
+   "original": {
+    "row": 337,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3180",
+    "date": "2025-02-27",
+    "amount": 5941.68
+   },
+   "duplicates": [
+    {
+     "row": 425,
+     "supplier": "Software supplier T Trading",
+     "number": "ST3391",
+     "date": "2025-03-17",
+     "amount": 5941.68
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-19",
+   "original": {
+    "row": 605,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ-84523",
+    "date": "2025-04-24",
+    "amount": 5588.21
+   },
+   "duplicates": [
+    {
+     "row": 625,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ-84660",
+     "date": "2025-04-27",
+     "amount": 5588.21
+    }
+   ]
+  },
+  {
+   "kind": "resend-new-number",
+   "group": "resend-new-number-20",
+   "original": {
+    "row": 1270,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG45116",
+    "date": "2025-08-19",
+    "amount": 3873.36
+   },
+   "duplicates": [
+    {
+     "row": 1364,
+     "supplier": "Waste supplier G2 & Sons",
+     "number": "WG-45138",
+     "date": "2025-09-07",
+     "amount": 3873.36
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-1",
+   "original": {
+    "row": 1240,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3223",
+    "date": "2025-08-15",
+    "amount": 658.81
+   },
+   "duplicates": [
+    {
+     "row": 1285,
+     "supplier": "Software supplier T Trading",
+     "number": "ST3223",
+     "date": "2025-08-22",
+     "amount": 658.81
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-2",
+   "original": {
+    "row": 108,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20208",
+    "date": "2025-01-20",
+    "amount": 5445
+   },
+   "duplicates": [
+    {
+     "row": 207,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF-0020208",
+     "date": "2025-02-06",
+     "amount": 5445
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-3",
+   "original": {
+    "row": 1340,
+    "supplier": "Fish supplier O Services",
+    "number": "FO-33353",
+    "date": "2025-09-02",
+    "amount": 1541.95
+   },
+   "duplicates": [
+    {
+     "row": 1479,
+     "supplier": "Fish supplier O Services",
+     "number": "FO-033353",
+     "date": "2025-10-01",
+     "amount": 1541.95
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-4",
+   "original": {
+    "row": 1187,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC-1846",
+    "date": "2025-08-06",
+    "amount": 5941.28
+   },
+   "duplicates": [
+    {
+     "row": 1230,
+     "supplier": "Packaging supplier C Services",
+     "number": "PC/1846",
+     "date": "2025-08-13",
+     "amount": 5941.28
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-5",
+   "original": {
+    "row": 744,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85888",
+    "date": "2025-05-20",
+    "amount": 5537.72
+   },
+   "duplicates": [
+    {
+     "row": 840,
+     "supplier": "Energy supplier K Co.",
+     "number": "ek-85888",
+     "date": "2025-06-06",
+     "amount": 5537.72
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-6",
+   "original": {
+    "row": 553,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20218",
+    "date": "2025-04-14",
+    "amount": 4261.29
+   },
+   "duplicates": [
+    {
+     "row": 626,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF-020218",
+     "date": "2025-04-28",
+     "amount": 4261.29
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-7",
+   "original": {
+    "row": 1469,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "DA-7272",
+    "date": "2025-09-28",
+    "amount": 6203.46
+   },
+   "duplicates": [
+    {
+     "row": 1557,
+     "supplier": "Dairy supplier A Ltd",
+     "number": "DA 7272",
+     "date": "2025-10-13",
+     "amount": 6203.46
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-8",
+   "original": {
+    "row": 1432,
+    "supplier": "Packaging supplier W Trading",
+    "number": "PW-44884",
+    "date": "2025-09-20",
+    "amount": 5637.9
+   },
+   "duplicates": [
+    {
+     "row": 1589,
+     "supplier": "Packaging supplier W Trading",
+     "number": "pw-44884",
+     "date": "2025-10-20",
+     "amount": 5637.9
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-9",
+   "original": {
+    "row": 400,
+    "supplier": "Bakery supplier D2 Ltd",
+    "number": "BD-25210",
+    "date": "2025-03-12",
+    "amount": 3387.39
+   },
+   "duplicates": [
+    {
+     "row": 532,
+     "supplier": "Bakery supplier D2 Ltd",
+     "number": "BD25210",
+     "date": "2025-04-09",
+     "amount": 3387.39
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-10",
+   "original": {
+    "row": 426,
+    "supplier": "Bakery supplier D2 Ltd",
+    "number": "BD25135",
+    "date": "2025-03-18",
+    "amount": 933.44
+   },
+   "duplicates": [
+    {
+     "row": 551,
+     "supplier": "Bakery supplier D2 Ltd",
+     "number": "BD025135",
+     "date": "2025-04-14",
+     "amount": 933.44
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-11",
+   "original": {
+    "row": 1049,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG45021",
+    "date": "2025-07-12",
+    "amount": 301.6
+   },
+   "duplicates": [
+    {
+     "row": 1083,
+     "supplier": "Waste supplier G2 & Sons",
+     "number": "wg45021",
+     "date": "2025-07-19",
+     "amount": 301.6
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-12",
+   "original": {
+    "row": 1517,
+    "supplier": "Waste supplier M Services",
+    "number": "WM/15406",
+    "date": "2025-10-06",
+    "amount": 3061.74
+   },
+   "duplicates": [
+    {
+     "row": 1685,
+     "supplier": "Waste supplier M Services",
+     "number": "WM/0015406",
+     "date": "2025-11-12",
+     "amount": 3061.74
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-13",
+   "original": {
+    "row": 1086,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF/20006",
+    "date": "2025-07-20",
+    "amount": 4512.02
+   },
+   "duplicates": [
+    {
+     "row": 1300,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF/0020006",
+     "date": "2025-08-25",
+     "amount": 4512.02
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-14",
+   "original": {
+    "row": 857,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82373",
+    "date": "2025-06-09",
+    "amount": 3900.37
+   },
+   "duplicates": [
+    {
+     "row": 967,
+     "supplier": "Drinks supplier I Co.",
+     "number": "di-82373",
+     "date": "2025-06-29",
+     "amount": 3900.37
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-15",
+   "original": {
+    "row": 461,
+    "supplier": "Drinks supplier C2 Limited",
+    "number": "DC-83213",
+    "date": "2025-03-24",
+    "amount": 1064.77
+   },
+   "duplicates": [
+    {
+     "row": 480,
+     "supplier": "Drinks supplier C2 Limited",
+     "number": "DC 83213",
+     "date": "2025-03-28",
+     "amount": 1064.77
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-16",
+   "original": {
+    "row": 108,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20208",
+    "date": "2025-01-20",
+    "amount": 5445
+   },
+   "duplicates": [
+    {
+     "row": 286,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF20208",
+     "date": "2025-02-17",
+     "amount": 5445
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-17",
+   "original": {
+    "row": 138,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB-20349",
+    "date": "2025-01-25",
+    "amount": 1536.87
+   },
+   "duplicates": [
+    {
+     "row": 226,
+     "supplier": "Fresh produce supplier B Supplies",
+     "number": "FPB20349",
+     "date": "2025-02-09",
+     "amount": 1536.87
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-18",
+   "original": {
+    "row": 1274,
+    "supplier": "Software supplier N2 Services",
+    "number": "SN/12182",
+    "date": "2025-08-20",
+    "amount": 2084.13
+   },
+   "duplicates": [
+    {
+     "row": 1322,
+     "supplier": "Software supplier N2 Services",
+     "number": "sn/12182",
+     "date": "2025-08-28",
+     "amount": 2084.13
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-19",
+   "original": {
+    "row": 680,
+    "supplier": "Packaging supplier W Trading",
+    "number": "PW44834",
+    "date": "2025-05-09",
+    "amount": 4164.56
+   },
+   "duplicates": [
+    {
+     "row": 800,
+     "supplier": "Packaging supplier W Trading",
+     "number": "PW0044834",
+     "date": "2025-05-29",
+     "amount": 4164.56
+    }
+   ]
+  },
+  {
+   "kind": "number-variant",
+   "group": "number-variant-20",
+   "original": {
+    "row": 1123,
+    "supplier": "Fish supplier I2 & Sons",
+    "number": "FI/44501",
+    "date": "2025-07-26",
+    "amount": 5819.77
+   },
+   "duplicates": [
+    {
+     "row": 1159,
+     "supplier": "Fish supplier I2 & Sons",
+     "number": "fi/44501",
+     "date": "2025-08-02",
+     "amount": 5819.77
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-1",
+   "original": {
+    "row": 294,
+    "supplier": "Waste supplier M Services",
+    "number": "WM/15520",
+    "date": "2025-02-18",
+    "amount": 430.79
+   },
+   "duplicates": [
+    {
+     "row": 442,
+     "supplier": "WASTE SUPPLIER M",
+     "number": "WM/15520",
+     "date": "2025-03-20",
+     "amount": 430.79
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-2",
+   "original": {
+    "row": 589,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3177",
+    "date": "2025-04-22",
+    "amount": 1822.25
+   },
+   "duplicates": [
+    {
+     "row": 665,
+     "supplier": "Software Supplier T",
+     "number": "ST-3177",
+     "date": "2025-05-06",
+     "amount": 1822.25
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-3",
+   "original": {
+    "row": 921,
+    "supplier": "Fish supplier O Services",
+    "number": "FO/33379",
+    "date": "2025-06-21",
+    "amount": 4910.47
+   },
+   "duplicates": [
+    {
+     "row": 992,
+     "supplier": "Fish supplier O Group",
+     "number": "FO/33379",
+     "date": "2025-07-04",
+     "amount": 4910.47
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-4",
+   "original": {
+    "row": 835,
+    "supplier": "Insurance supplier M2 Services",
+    "number": "IM-27501",
+    "date": "2025-06-05",
+    "amount": 3959.29
+   },
+   "duplicates": [
+    {
+     "row": 859,
+     "supplier": "Insurance supplier M2",
+     "number": "IM-27501",
+     "date": "2025-06-09",
+     "amount": 3959.29
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-5",
+   "original": {
+    "row": 709,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB-20195",
+    "date": "2025-05-14",
+    "amount": 283.73
+   },
+   "duplicates": [
+    {
+     "row": 728,
+     "supplier": "Fresh produce Supplier B",
+     "number": "FPB-20195",
+     "date": "2025-05-17",
+     "amount": 283.73
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-6",
+   "original": {
+    "row": 502,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG-70788",
+    "date": "2025-04-02",
+    "amount": 5303.79
+   },
+   "duplicates": [
+    {
+     "row": 633,
+     "supplier": "FROZEN FOODS SUPPLIER G",
+     "number": "FFG-70788",
+     "date": "2025-05-01",
+     "amount": 5303.79
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-7",
+   "original": {
+    "row": 217,
+    "supplier": "Catering equipment supplier J2 Co.",
+    "number": "CEJ-22917",
+    "date": "2025-02-08",
+    "amount": 388.35
+   },
+   "duplicates": [
+    {
+     "row": 383,
+     "supplier": "Catering equipment supplier J2",
+     "number": "CEJ-22917",
+     "date": "2025-03-08",
+     "amount": 388.35
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-8",
+   "original": {
+    "row": 571,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK/23838",
+    "date": "2025-04-18",
+    "amount": 4830.25
+   },
+   "duplicates": [
+    {
+     "row": 604,
+     "supplier": "Uniform supplier K2 LTD",
+     "number": "UK/23838",
+     "date": "2025-04-24",
+     "amount": 4830.25
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-9",
+   "original": {
+    "row": 344,
+    "supplier": "Bakery supplier J Trading",
+    "number": "BJ20369",
+    "date": "2025-03-01",
+    "amount": 3124.78
+   },
+   "duplicates": [
+    {
+     "row": 459,
+     "supplier": "BAKERY SUPPLIER J",
+     "number": "BJ20369",
+     "date": "2025-03-24",
+     "amount": 3124.78
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-10",
+   "original": {
+    "row": 631,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE6087",
+    "date": "2025-05-01",
+    "amount": 6139.84
+   },
+   "duplicates": [
+    {
+     "row": 788,
+     "supplier": "Dry goods supplier E LTD",
+     "number": "DGE6087",
+     "date": "2025-05-26",
+     "amount": 6139.84
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-11",
+   "original": {
+    "row": 641,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ/84544",
+    "date": "2025-05-02",
+    "amount": 963.19
+   },
+   "duplicates": [
+    {
+     "row": 645,
+     "supplier": "Uniform supplier Q LTD",
+     "number": "UQ/84544",
+     "date": "2025-05-03",
+     "amount": 963.19
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-12",
+   "original": {
+    "row": 915,
+    "supplier": "Bakery supplier D2 Ltd",
+    "number": "BD/25022",
+    "date": "2025-06-21",
+    "amount": 3726.08
+   },
+   "duplicates": [
+    {
+     "row": 1002,
+     "supplier": "BAKERY SUPPLIER D2",
+     "number": "BD/25022",
+     "date": "2025-07-06",
+     "amount": 3726.08
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-13",
+   "original": {
+    "row": 976,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG-70816",
+    "date": "2025-07-02",
+    "amount": 4071.71
+   },
+   "duplicates": [
+    {
+     "row": 998,
+     "supplier": "Frozen foods supplier G LTD",
+     "number": "FFG-70816",
+     "date": "2025-07-05",
+     "amount": 4071.71
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-14",
+   "original": {
+    "row": 366,
+    "supplier": "Drinks supplier C2 Limited",
+    "number": "DC-83202",
+    "date": "2025-03-04",
+    "amount": 724.17
+   },
+   "duplicates": [
+    {
+     "row": 444,
+     "supplier": "Drinks supplier C2 Group",
+     "number": "DC-83202",
+     "date": "2025-03-21",
+     "amount": 724.17
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-15",
+   "original": {
+    "row": 1119,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE-6034",
+    "date": "2025-07-26",
+    "amount": 4389.08
+   },
+   "duplicates": [
+    {
+     "row": 1228,
+     "supplier": "Dry goods Supplier E",
+     "number": "DGE-6034",
+     "date": "2025-08-13",
+     "amount": 4389.08
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-16",
+   "original": {
+    "row": 898,
+    "supplier": "Bakery supplier J Trading",
+    "number": "BJ-20405",
+    "date": "2025-06-18",
+    "amount": 1759.74
+   },
+   "duplicates": [
+    {
+     "row": 970,
+     "supplier": "BAKERY SUPPLIER J",
+     "number": "BJ-20405",
+     "date": "2025-06-30",
+     "amount": 1759.74
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-17",
+   "original": {
+    "row": 308,
+    "supplier": "Software supplier N2 Services",
+    "number": "SN/12260",
+    "date": "2025-02-22",
+    "amount": 5395.14
+   },
+   "duplicates": [
+    {
+     "row": 447,
+     "supplier": "SOFTWARE SUPPLIER N2",
+     "number": "SN/12260",
+     "date": "2025-03-21",
+     "amount": 5395.14
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-18",
+   "original": {
+    "row": 161,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC1811",
+    "date": "2025-01-27",
+    "amount": 5947.86
+   },
+   "duplicates": [
+    {
+     "row": 215,
+     "supplier": "Packaging Supplier C",
+     "number": "PC1811",
+     "date": "2025-02-07",
+     "amount": 5947.86
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-19",
+   "original": {
+    "row": 127,
+    "supplier": "Software supplier T Trading",
+    "number": "ST3089",
+    "date": "2025-01-23",
+    "amount": 4042.29
+   },
+   "duplicates": [
+    {
+     "row": 288,
+     "supplier": "Software supplier T Group",
+     "number": "ST3089",
+     "date": "2025-02-17",
+     "amount": 4042.29
+    }
+   ]
+  },
+  {
+   "kind": "supplier-variant",
+   "group": "supplier-variant-20",
+   "original": {
+    "row": 1366,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB20111",
+    "date": "2025-09-08",
+    "amount": 5498.35
+   },
+   "duplicates": [
+    {
+     "row": 1397,
+     "supplier": "Fresh produce supplier B Group",
+     "number": "FPB20111",
+     "date": "2025-09-14",
+     "amount": 5498.35
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-1",
+   "original": {
+    "row": 866,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE-23747",
+    "date": "2025-06-10",
+    "amount": 721.38
+   },
+   "duplicates": [
+    {
+     "row": 1021,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE-23747",
+     "date": "2025-07-08",
+     "amount": 721.38
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-2",
+   "original": {
+    "row": 1250,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG-70714",
+    "date": "2025-08-17",
+    "amount": 611.03
+   },
+   "duplicates": [
+    {
+     "row": 1310,
+     "supplier": "Frozen foods supplier G Limited",
+     "number": "FFG-70714",
+     "date": "2025-08-26",
+     "amount": 611.03
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-3",
+   "original": {
+    "row": 1038,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15377",
+    "date": "2025-07-10",
+    "amount": 78.56
+   },
+   "duplicates": [
+    {
+     "row": 1225,
+     "supplier": "Waste supplier M Services",
+     "number": "WM-15377",
+     "date": "2025-08-12",
+     "amount": 78.56
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-4",
+   "original": {
+    "row": 1378,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ84589",
+    "date": "2025-09-10",
+    "amount": 2422.2
+   },
+   "duplicates": [
+    {
+     "row": 1474,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ84589",
+     "date": "2025-09-29",
+     "amount": 2422.2
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-5",
+   "original": {
+    "row": 44,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE-23722",
+    "date": "2025-01-07",
+    "amount": 2565.75
+   },
+   "duplicates": [
+    {
+     "row": 264,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE-23722",
+     "date": "2025-02-14",
+     "amount": 2565.75
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-6",
+   "original": {
+    "row": 709,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB-20195",
+    "date": "2025-05-14",
+    "amount": 283.73
+   },
+   "duplicates": [
+    {
+     "row": 950,
+     "supplier": "Fresh produce supplier B Supplies",
+     "number": "FPB-20195",
+     "date": "2025-06-25",
+     "amount": 283.73
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-7",
+   "original": {
+    "row": 559,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE-5958",
+    "date": "2025-04-15",
+    "amount": 2576.14
+   },
+   "duplicates": [
+    {
+     "row": 794,
+     "supplier": "Dry goods supplier E Trading",
+     "number": "DGE-5958",
+     "date": "2025-05-27",
+     "amount": 2576.14
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-8",
+   "original": {
+    "row": 1018,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG/44994",
+    "date": "2025-07-07",
+    "amount": 5805.35
+   },
+   "duplicates": [
+    {
+     "row": 1171,
+     "supplier": "Waste supplier G2 & Sons",
+     "number": "WG/44994",
+     "date": "2025-08-03",
+     "amount": 5805.35
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-9",
+   "original": {
+    "row": 1413,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23810",
+    "date": "2025-09-16",
+    "amount": 5174.36
+   },
+   "duplicates": [
+    {
+     "row": 1572,
+     "supplier": "Uniform supplier K2 Supplies",
+     "number": "UK-23810",
+     "date": "2025-10-16",
+     "amount": 5174.36
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-10",
+   "original": {
+    "row": 773,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS-75165",
+    "date": "2025-05-24",
+    "amount": 981.34
+   },
+   "duplicates": [
+    {
+     "row": 955,
+     "supplier": "Insurance supplier S Ltd",
+     "number": "IS-75165",
+     "date": "2025-06-26",
+     "amount": 981.34
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-11",
+   "original": {
+    "row": 744,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85888",
+    "date": "2025-05-20",
+    "amount": 5537.72
+   },
+   "duplicates": [
+    {
+     "row": 850,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK-85888",
+     "date": "2025-06-08",
+     "amount": 5537.72
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-12",
+   "original": {
+    "row": 1482,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CZ-53566",
+    "date": "2025-10-02",
+    "amount": 504.89
+   },
+   "duplicates": [
+    {
+     "row": 1606,
+     "supplier": "Cleaning supplier Z Group",
+     "number": "CZ-53566",
+     "date": "2025-10-25",
+     "amount": 504.89
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-13",
+   "original": {
+    "row": 1365,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CZ-53537",
+    "date": "2025-09-08",
+    "amount": 4324.66
+   },
+   "duplicates": [
+    {
+     "row": 1547,
+     "supplier": "Cleaning supplier Z Group",
+     "number": "CZ-53537",
+     "date": "2025-10-12",
+     "amount": 4324.66
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-14",
+   "original": {
+    "row": 161,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC1811",
+    "date": "2025-01-27",
+    "amount": 5947.86
+   },
+   "duplicates": [
+    {
+     "row": 255,
+     "supplier": "Packaging supplier C Services",
+     "number": "PC1811",
+     "date": "2025-02-13",
+     "amount": 5947.86
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-15",
+   "original": {
+    "row": 1620,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23649",
+    "date": "2025-10-27",
+    "amount": 3993.97
+   },
+   "duplicates": [
+    {
+     "row": 1707,
+     "supplier": "Uniform supplier K2 Supplies",
+     "number": "UK-23649",
+     "date": "2025-11-16",
+     "amount": 3993.97
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-16",
+   "original": {
+    "row": 888,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85775",
+    "date": "2025-06-15",
+    "amount": 3708.4
+   },
+   "duplicates": [
+    {
+     "row": 1116,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK-85775",
+     "date": "2025-07-25",
+     "amount": 3708.4
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-17",
+   "original": {
+    "row": 1236,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "DA-7289",
+    "date": "2025-08-14",
+    "amount": 3556.3
+   },
+   "duplicates": [
+    {
+     "row": 1301,
+     "supplier": "Dairy supplier A Ltd",
+     "number": "DA-7289",
+     "date": "2025-08-25",
+     "amount": 3556.3
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-18",
+   "original": {
+    "row": 644,
+    "supplier": "Pallet supplier L Supplies",
+    "number": "PL81827",
+    "date": "2025-05-03",
+    "amount": 694.34
+   },
+   "duplicates": [
+    {
+     "row": 710,
+     "supplier": "Pallet supplier L Supplies",
+     "number": "PL81827",
+     "date": "2025-05-14",
+     "amount": 694.34
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-19",
+   "original": {
+    "row": 159,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE5982",
+    "date": "2025-01-27",
+    "amount": 1707.93
+   },
+   "duplicates": [
+    {
+     "row": 262,
+     "supplier": "Dry goods supplier E Trading",
+     "number": "DGE5982",
+     "date": "2025-02-14",
+     "amount": 1707.93
+    }
+   ]
+  },
+  {
+   "kind": "credit-cancelled-resent",
+   "group": "credit-cancelled-resent-20",
+   "original": {
+    "row": 180,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS75015",
+    "date": "2025-02-02",
+    "amount": 3259.73
+   },
+   "duplicates": [
+    {
+     "row": 379,
+     "supplier": "Insurance supplier S Ltd",
+     "number": "IS75015",
+     "date": "2025-03-06",
+     "amount": 3259.73
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-1",
+   "original": {
+    "row": 502,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG-70788",
+    "date": "2025-04-02",
+    "amount": 5303.79
+   },
+   "duplicates": [
+    {
+     "row": 806,
+     "supplier": "Frozen foods supplier G Limited",
+     "number": "FFG70850",
+     "date": "2025-06-01",
+     "amount": 5303.79
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-2",
+   "original": {
+    "row": 421,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23678",
+    "date": "2025-03-16",
+    "amount": 2055.94
+   },
+   "duplicates": [
+    {
+     "row": 785,
+     "supplier": "Uniform supplier K2 Supplies",
+     "number": "UK-23874",
+     "date": "2025-05-25",
+     "amount": 2055.94
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-3",
+   "original": {
+    "row": 1279,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV-50532",
+    "date": "2025-08-21",
+    "amount": 2425.35
+   },
+   "duplicates": [
+    {
+     "row": 1485,
+     "supplier": "Fresh produce supplier V Limited",
+     "number": "FPV50663",
+     "date": "2025-10-02",
+     "amount": 2425.35
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-4",
+   "original": {
+    "row": 956,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3228",
+    "date": "2025-06-26",
+    "amount": 3021.21
+   },
+   "duplicates": [
+    {
+     "row": 1152,
+     "supplier": "Software supplier T Trading",
+     "number": "ST-3397",
+     "date": "2025-07-31",
+     "amount": 3021.21
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-5",
+   "original": {
+    "row": 1602,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE-23713",
+    "date": "2025-10-23",
+    "amount": 1097.95
+   },
+   "duplicates": [
+    {
+     "row": 1847,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE-23992",
+     "date": "2025-12-16",
+     "amount": 1097.95
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-6",
+   "original": {
+    "row": 67,
+    "supplier": "Fish supplier I2 & Sons",
+    "number": "FI/44664",
+    "date": "2025-01-12",
+    "amount": 4021.33
+   },
+   "duplicates": [
+    {
+     "row": 410,
+     "supplier": "Fish supplier I2 & Sons",
+     "number": "FI-44696",
+     "date": "2025-03-14",
+     "amount": 4021.33
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-7",
+   "original": {
+    "row": 713,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ/84653",
+    "date": "2025-05-14",
+    "amount": 2833.46
+   },
+   "duplicates": [
+    {
+     "row": 902,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ-84673",
+     "date": "2025-06-18",
+     "amount": 2833.46
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-8",
+   "original": {
+    "row": 245,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85720",
+    "date": "2025-02-12",
+    "amount": 3408.82
+   },
+   "duplicates": [
+    {
+     "row": 594,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK85991",
+     "date": "2025-04-23",
+     "amount": 3408.82
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-9",
+   "original": {
+    "row": 1097,
+    "supplier": "Insurance supplier M2 Services",
+    "number": "IM-27570",
+    "date": "2025-07-21",
+    "amount": 2376.42
+   },
+   "duplicates": [
+    {
+     "row": 1423,
+     "supplier": "Insurance supplier M2 Services",
+     "number": "IM27617",
+     "date": "2025-09-19",
+     "amount": 2376.42
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-10",
+   "original": {
+    "row": 1197,
+    "supplier": "Bakery supplier D2 Ltd",
+    "number": "BD-25044",
+    "date": "2025-08-09",
+    "amount": 517.81
+   },
+   "duplicates": [
+    {
+     "row": 1488,
+     "supplier": "Bakery supplier D2 Ltd",
+     "number": "BD25227",
+     "date": "2025-10-03",
+     "amount": 517.81
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-11",
+   "original": {
+    "row": 260,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82479",
+    "date": "2025-02-14",
+    "amount": 1134.99
+   },
+   "duplicates": [
+    {
+     "row": 528,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI/82601",
+     "date": "2025-04-08",
+     "amount": 1134.99
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-12",
+   "original": {
+    "row": 184,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15424",
+    "date": "2025-02-02",
+    "amount": 1664.52
+   },
+   "duplicates": [
+    {
+     "row": 443,
+     "supplier": "Waste supplier M Services",
+     "number": "WM/15653",
+     "date": "2025-03-20",
+     "amount": 1664.52
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-13",
+   "original": {
+    "row": 828,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV/50578",
+    "date": "2025-06-04",
+    "amount": 1718.75
+   },
+   "duplicates": [
+    {
+     "row": 1124,
+     "supplier": "Fresh produce supplier V Limited",
+     "number": "FPV-50664",
+     "date": "2025-07-26",
+     "amount": 1718.75
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-14",
+   "original": {
+    "row": 938,
+    "supplier": "Dairy supplier U Trading",
+    "number": "DU-20646",
+    "date": "2025-06-24",
+    "amount": 3264.22
+   },
+   "duplicates": [
+    {
+     "row": 1174,
+     "supplier": "Dairy supplier U Trading",
+     "number": "DU-20681",
+     "date": "2025-08-04",
+     "amount": 3264.22
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-15",
+   "original": {
+    "row": 298,
+    "supplier": "Bakery supplier J Trading",
+    "number": "BJ/20392",
+    "date": "2025-02-20",
+    "amount": 796.53
+   },
+   "duplicates": [
+    {
+     "row": 552,
+     "supplier": "Bakery supplier J Trading",
+     "number": "BJ/20447",
+     "date": "2025-04-14",
+     "amount": 796.53
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-16",
+   "original": {
+    "row": 723,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC1854",
+    "date": "2025-05-16",
+    "amount": 2292.81
+   },
+   "duplicates": [
+    {
+     "row": 927,
+     "supplier": "Packaging supplier C Services",
+     "number": "PC-1896",
+     "date": "2025-06-22",
+     "amount": 2292.81
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-17",
+   "original": {
+    "row": 609,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK/85852",
+    "date": "2025-04-26",
+    "amount": 5388.77
+   },
+   "duplicates": [
+    {
+     "row": 971,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK85996",
+     "date": "2025-06-30",
+     "amount": 5388.77
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-18",
+   "original": {
+    "row": 732,
+    "supplier": "Fish supplier I2 & Sons",
+    "number": "FI-44398",
+    "date": "2025-05-18",
+    "amount": 4197.82
+   },
+   "duplicates": [
+    {
+     "row": 985,
+     "supplier": "Fish supplier I2 & Sons",
+     "number": "FI/44700",
+     "date": "2025-07-03",
+     "amount": 4197.82
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-19",
+   "original": {
+    "row": 1053,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK/85784",
+    "date": "2025-07-13",
+    "amount": 6040.7
+   },
+   "duplicates": [
+    {
+     "row": 1380,
+     "supplier": "Energy supplier K Co.",
+     "number": "EK/85998",
+     "date": "2025-09-11",
+     "amount": 6040.7
+    }
+   ]
+  },
+  {
+   "kind": "resend-outside-30-days",
+   "group": "resend-outside-30-days-20",
+   "original": {
+    "row": 1028,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ-84532",
+    "date": "2025-07-09",
+    "amount": 135.49
+   },
+   "duplicates": [
+    {
+     "row": 1334,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ-84674",
+     "date": "2025-09-01",
+     "amount": 135.49
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-1",
+   "original": {
+    "row": 1194,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV-50556",
+    "date": "2025-08-08",
+    "amount": 1029.67
+   },
+   "duplicates": [
+    {
+     "row": 1222,
+     "supplier": "Fresh produce supplier V Limited",
+     "number": "FPV-50556",
+     "date": "2025-08-12",
+     "amount": 1039.57
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-2",
+   "original": {
+    "row": 573,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82522",
+    "date": "2025-04-19",
+    "amount": 6458.97
+   },
+   "duplicates": [
+    {
+     "row": 592,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82522",
+     "date": "2025-04-23",
+     "amount": 6486.66
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-3",
+   "original": {
+    "row": 1103,
+    "supplier": "Dairy supplier U Trading",
+    "number": "DU20656",
+    "date": "2025-07-23",
+    "amount": 5526.62
+   },
+   "duplicates": [
+    {
+     "row": 1132,
+     "supplier": "Dairy supplier U Trading",
+     "number": "DU20656",
+     "date": "2025-07-27",
+     "amount": 5551.08
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-4",
+   "original": {
+    "row": 337,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3180",
+    "date": "2025-02-27",
+    "amount": 5941.68
+   },
+   "duplicates": [
+    {
+     "row": 399,
+     "supplier": "Software supplier T Trading",
+     "number": "ST-3180",
+     "date": "2025-03-11",
+     "amount": 5908.66
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-5",
+   "original": {
+    "row": 104,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82471",
+    "date": "2025-01-19",
+    "amount": 3786.06
+   },
+   "duplicates": [
+    {
+     "row": 158,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82471",
+     "date": "2025-01-27",
+     "amount": 3756.66
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-6",
+   "original": {
+    "row": 394,
+    "supplier": "Waste supplier M Services",
+    "number": "WM15495",
+    "date": "2025-03-09",
+    "amount": 563.51
+   },
+   "duplicates": [
+    {
+     "row": 411,
+     "supplier": "Waste supplier M Services",
+     "number": "WM15495",
+     "date": "2025-03-14",
+     "amount": 585.48
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-7",
+   "original": {
+    "row": 354,
+    "supplier": "Frozen foods supplier A2 Group",
+    "number": "FFA/53920",
+    "date": "2025-03-02",
+    "amount": 5007.5
+   },
+   "duplicates": [
+    {
+     "row": 401,
+     "supplier": "Frozen foods supplier A2 Group",
+     "number": "FFA/53920",
+     "date": "2025-03-12",
+     "amount": 4986.95
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-8",
+   "original": {
+    "row": 573,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82522",
+    "date": "2025-04-19",
+    "amount": 6458.97
+   },
+   "duplicates": [
+    {
+     "row": 639,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82522",
+     "date": "2025-05-02",
+     "amount": 6482.74
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-9",
+   "original": {
+    "row": 498,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "DA-7218",
+    "date": "2025-04-02",
+    "amount": 1552.68
+   },
+   "duplicates": [
+    {
+     "row": 557,
+     "supplier": "Dairy supplier A Ltd",
+     "number": "DA-7218",
+     "date": "2025-04-15",
+     "amount": 1531.54
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-10",
+   "original": {
+    "row": 980,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3355",
+    "date": "2025-07-02",
+    "amount": 6037.93
+   },
+   "duplicates": [
+    {
+     "row": 994,
+     "supplier": "Software supplier T Trading",
+     "number": "ST-3355",
+     "date": "2025-07-04",
+     "amount": 6073.58
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-11",
+   "original": {
+    "row": 118,
+    "supplier": "Software supplier T Trading",
+    "number": "ST-3115",
+    "date": "2025-01-21",
+    "amount": 3195.44
+   },
+   "duplicates": [
+    {
+     "row": 198,
+     "supplier": "Software supplier T Trading",
+     "number": "ST-3115",
+     "date": "2025-02-04",
+     "amount": 3170.11
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-12",
+   "original": {
+    "row": 1103,
+    "supplier": "Dairy supplier U Trading",
+    "number": "DU20656",
+    "date": "2025-07-23",
+    "amount": 5526.62
+   },
+   "duplicates": [
+    {
+     "row": 1151,
+     "supplier": "Dairy supplier U Trading",
+     "number": "DU20656",
+     "date": "2025-07-29",
+     "amount": 5500.42
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-13",
+   "original": {
+    "row": 1417,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB-20183",
+    "date": "2025-09-17",
+    "amount": 3927.87
+   },
+   "duplicates": [
+    {
+     "row": 1459,
+     "supplier": "Fresh produce supplier B Supplies",
+     "number": "FPB-20183",
+     "date": "2025-09-26",
+     "amount": 3954.35
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-14",
+   "original": {
+    "row": 265,
+    "supplier": "Fish supplier O Services",
+    "number": "FO-33320",
+    "date": "2025-02-14",
+    "amount": 584.73
+   },
+   "duplicates": [
+    {
+     "row": 315,
+     "supplier": "Fish supplier O Services",
+     "number": "FO-33320",
+     "date": "2025-02-23",
+     "amount": 564.33
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-15",
+   "original": {
+    "row": 40,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "DA-7162",
+    "date": "2025-01-06",
+    "amount": 3429.38
+   },
+   "duplicates": [
+    {
+     "row": 114,
+     "supplier": "Dairy supplier A Ltd",
+     "number": "DA-7162",
+     "date": "2025-01-21",
+     "amount": 3391.37
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-16",
+   "original": {
+    "row": 390,
+    "supplier": "Dry goods supplier Y Services",
+    "number": "DGY/17842",
+    "date": "2025-03-09",
+    "amount": 5177.62
+   },
+   "duplicates": [
+    {
+     "row": 462,
+     "supplier": "Dry goods supplier Y Services",
+     "number": "DGY/17842",
+     "date": "2025-03-24",
+     "amount": 5146.52
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-17",
+   "original": {
+    "row": 766,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV/50510",
+    "date": "2025-05-23",
+    "amount": 2019.59
+   },
+   "duplicates": [
+    {
+     "row": 790,
+     "supplier": "Fresh produce supplier V Limited",
+     "number": "FPV/50510",
+     "date": "2025-05-26",
+     "amount": 2007.67
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-18",
+   "original": {
+    "row": 617,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82310",
+    "date": "2025-04-27",
+    "amount": 6271.85
+   },
+   "duplicates": [
+    {
+     "row": 663,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82310",
+     "date": "2025-05-06",
+     "amount": 6297.34
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-19",
+   "original": {
+    "row": 413,
+    "supplier": "Software supplier T Trading",
+    "number": "ST/3248",
+    "date": "2025-03-15",
+    "amount": 163.36
+   },
+   "duplicates": [
+    {
+     "row": 420,
+     "supplier": "Software supplier T Trading",
+     "number": "ST/3248",
+     "date": "2025-03-16",
+     "amount": 143.6
+    }
+   ]
+  },
+  {
+   "kind": "same-number-amount-corrected",
+   "group": "same-number-amount-corrected-20",
+   "original": {
+    "row": 1059,
+    "supplier": "Catering equipment supplier P Ltd",
+    "number": "CEP-19167",
+    "date": "2025-07-14",
+    "amount": 3924.39
+   },
+   "duplicates": [
+    {
+     "row": 1150,
+     "supplier": "Catering equipment supplier P Ltd",
+     "number": "CEP-19167",
+     "date": "2025-07-29",
+     "amount": 3953.04
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-1",
+   "original": {
+    "row": 906,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE-23688",
+    "date": "2025-06-19",
+    "amount": 1321.14
+   },
+   "duplicates": [
+    {
+     "row": 907,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE-23688",
+     "date": "2025-06-19",
+     "amount": 1321.14
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-2",
+   "original": {
+    "row": 1231,
+    "supplier": "Packaging supplier W Trading",
+    "number": "PW44916",
+    "date": "2025-08-13",
+    "amount": 5901.91
+   },
+   "duplicates": [
+    {
+     "row": 1232,
+     "supplier": "Packaging supplier W Trading",
+     "number": "PW44916",
+     "date": "2025-08-13",
+     "amount": 5901.91
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-3",
+   "original": {
+    "row": 1000,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ-84484",
+    "date": "2025-07-05",
+    "amount": 4505.26
+   },
+   "duplicates": [
+    {
+     "row": 1001,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ-84484",
+     "date": "2025-07-05",
+     "amount": 4505.26
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-4",
+   "original": {
+    "row": 1192,
+    "supplier": "Fish supplier O Services",
+    "number": "FO-33229",
+    "date": "2025-08-08",
+    "amount": 4724.75
+   },
+   "duplicates": [
+    {
+     "row": 1193,
+     "supplier": "Fish supplier O Services",
+     "number": "FO-33229",
+     "date": "2025-08-08",
+     "amount": 4724.75
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-5",
+   "original": {
+    "row": 684,
+    "supplier": "Pallet supplier F2 Limited",
+    "number": "PF-22179",
+    "date": "2025-05-10",
+    "amount": 4667.3
+   },
+   "duplicates": [
+    {
+     "row": 685,
+     "supplier": "Pallet supplier F2 Limited",
+     "number": "PF-22179",
+     "date": "2025-05-10",
+     "amount": 4667.3
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-6",
+   "original": {
+    "row": 26,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15584",
+    "date": "2025-01-04",
+    "amount": 6499.04
+   },
+   "duplicates": [
+    {
+     "row": 27,
+     "supplier": "Waste supplier M Services",
+     "number": "WM-15584",
+     "date": "2025-01-04",
+     "amount": 6499.04
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-7",
+   "original": {
+    "row": 242,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE-6007",
+    "date": "2025-02-12",
+    "amount": 5101.52
+   },
+   "duplicates": [
+    {
+     "row": 243,
+     "supplier": "Dry goods supplier E Trading",
+     "number": "DGE-6007",
+     "date": "2025-02-12",
+     "amount": 5101.52
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-8",
+   "original": {
+    "row": 1086,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF/20006",
+    "date": "2025-07-20",
+    "amount": 4512.02
+   },
+   "duplicates": [
+    {
+     "row": 1087,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF/20006",
+     "date": "2025-07-20",
+     "amount": 4512.02
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-9",
+   "original": {
+    "row": 142,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ84626",
+    "date": "2025-01-25",
+    "amount": 4749.95
+   },
+   "duplicates": [
+    {
+     "row": 143,
+     "supplier": "Uniform supplier Q Group",
+     "number": "UQ84626",
+     "date": "2025-01-25",
+     "amount": 4749.95
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-10",
+   "original": {
+    "row": 932,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15506",
+    "date": "2025-06-22",
+    "amount": 2567.55
+   },
+   "duplicates": [
+    {
+     "row": 933,
+     "supplier": "Waste supplier M Services",
+     "number": "WM-15506",
+     "date": "2025-06-22",
+     "amount": 2567.55
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-11",
+   "original": {
+    "row": 1516,
+    "supplier": "Waste supplier M Services",
+    "number": "WM15497",
+    "date": "2025-10-06",
+    "amount": 5271.89
+   },
+   "duplicates": [
+    {
+     "row": 1518,
+     "supplier": "Waste supplier M Services",
+     "number": "WM15497",
+     "date": "2025-10-06",
+     "amount": 5271.89
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-12",
+   "original": {
+    "row": 1372,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV/50587",
+    "date": "2025-09-09",
+    "amount": 636.14
+   },
+   "duplicates": [
+    {
+     "row": 1373,
+     "supplier": "Fresh produce supplier V Limited",
+     "number": "FPV/50587",
+     "date": "2025-09-09",
+     "amount": 636.14
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-13",
+   "original": {
+    "row": 31,
+    "supplier": "Dry goods supplier Y Services",
+    "number": "DGY/17868",
+    "date": "2025-01-05",
+    "amount": 4492.53
+   },
+   "duplicates": [
+    {
+     "row": 32,
+     "supplier": "Dry goods supplier Y Services",
+     "number": "DGY/17868",
+     "date": "2025-01-05",
+     "amount": 4492.53
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-14",
+   "original": {
+    "row": 1525,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20137",
+    "date": "2025-10-08",
+    "amount": 741.78
+   },
+   "duplicates": [
+    {
+     "row": 1526,
+     "supplier": "Cleaning supplier F Co.",
+     "number": "CF-20137",
+     "date": "2025-10-08",
+     "amount": 741.78
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-15",
+   "original": {
+    "row": 170,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82380",
+    "date": "2025-02-01",
+    "amount": 5281.82
+   },
+   "duplicates": [
+    {
+     "row": 171,
+     "supplier": "Drinks supplier I Co.",
+     "number": "DI-82380",
+     "date": "2025-02-01",
+     "amount": 5281.82
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-16",
+   "original": {
+    "row": 1106,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE23882",
+    "date": "2025-07-23",
+    "amount": 6121.4
+   },
+   "duplicates": [
+    {
+     "row": 1107,
+     "supplier": "Energy supplier E2 Group",
+     "number": "EE23882",
+     "date": "2025-07-23",
+     "amount": 6121.4
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-17",
+   "original": {
+    "row": 1340,
+    "supplier": "Fish supplier O Services",
+    "number": "FO-33353",
+    "date": "2025-09-02",
+    "amount": 1541.95
+   },
+   "duplicates": [
+    {
+     "row": 1341,
+     "supplier": "Fish supplier O Services",
+     "number": "FO-33353",
+     "date": "2025-09-02",
+     "amount": 1541.95
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-18",
+   "original": {
+    "row": 233,
+    "supplier": "Catering equipment supplier J2 Co.",
+    "number": "CEJ-22990",
+    "date": "2025-02-11",
+    "amount": 4280.52
+   },
+   "duplicates": [
+    {
+     "row": 234,
+     "supplier": "Catering equipment supplier J2 Co.",
+     "number": "CEJ-22990",
+     "date": "2025-02-11",
+     "amount": 4280.52
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-19",
+   "original": {
+    "row": 845,
+    "supplier": "Catering equipment supplier P Ltd",
+    "number": "CEP-19208",
+    "date": "2025-06-08",
+    "amount": 1272.72
+   },
+   "duplicates": [
+    {
+     "row": 846,
+     "supplier": "Catering equipment supplier P Ltd",
+     "number": "CEP-19208",
+     "date": "2025-06-08",
+     "amount": 1272.72
+    }
+   ]
+  },
+  {
+   "kind": "entered-twice-same-day",
+   "group": "entered-twice-same-day-20",
+   "original": {
+    "row": 943,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS/75027",
+    "date": "2025-06-24",
+    "amount": 549.86
+   },
+   "duplicates": [
+    {
+     "row": 944,
+     "supplier": "Insurance supplier S Ltd",
+     "number": "IS/75027",
+     "date": "2025-06-24",
+     "amount": 549.86
+    }
+   ]
+  }
+ ],
+ "traps": [
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 896,
+    "supplier": "Energy supplier E2 Group",
+    "number": "CN-EE-23963",
+    "date": "2025-06-17",
+    "amount": -721.38
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 939,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE/23972",
+    "date": "2025-06-24",
+    "amount": 721.38
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1272,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "CN-FFG-70834",
+    "date": "2025-08-20",
+    "amount": -611.03
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1288,
+    "supplier": "Frozen foods supplier G Limited",
+    "number": "FFG-70843",
+    "date": "2025-08-23",
+    "amount": 611.03
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1068,
+    "supplier": "Waste supplier M Services",
+    "number": "CN-WM-15645",
+    "date": "2025-07-15",
+    "amount": -78.56
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1094,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15650",
+    "date": "2025-07-20",
+    "amount": 78.56
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1388,
+    "supplier": "Uniform supplier Q Group",
+    "number": "CN-UQ-84664",
+    "date": "2025-09-12",
+    "amount": -2422.2
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1420,
+    "supplier": "Uniform supplier Q Group",
+    "number": "UQ-84669",
+    "date": "2025-09-18",
+    "amount": 2422.2
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 90,
+    "supplier": "Energy supplier E2 Group",
+    "number": "CN-EE-23981",
+    "date": "2025-01-16",
+    "amount": -2565.75
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 116,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE23983",
+    "date": "2025-01-21",
+    "amount": 2565.75
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 752,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "CN-FPB-20413",
+    "date": "2025-05-21",
+    "amount": -283.73
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 789,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB-20418",
+    "date": "2025-05-26",
+    "amount": 283.73
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 587,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "CN-DGE6104",
+    "date": "2025-04-22",
+    "amount": -2576.14
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 618,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE6109",
+    "date": "2025-04-27",
+    "amount": 2576.14
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1046,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "CN-WG-45143",
+    "date": "2025-07-11",
+    "amount": -5805.35
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1077,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG45148",
+    "date": "2025-07-17",
+    "amount": 5805.35
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1426,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "CN-UK23857",
+    "date": "2025-09-19",
+    "amount": -5174.36
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1460,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23861",
+    "date": "2025-09-26",
+    "amount": 5174.36
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 823,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "CN-IS-75171",
+    "date": "2025-06-03",
+    "amount": -981.34
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 837,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS/75177",
+    "date": "2025-06-05",
+    "amount": 981.34
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 778,
+    "supplier": "Energy supplier K Co.",
+    "number": "CN-EK-85979",
+    "date": "2025-05-25",
+    "amount": -5537.72
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 804,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK/85987",
+    "date": "2025-06-01",
+    "amount": 5537.72
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1503,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CN-CZ-53601",
+    "date": "2025-10-05",
+    "amount": -504.89
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1531,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CZ-53610",
+    "date": "2025-10-09",
+    "amount": 504.89
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1408,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CN-CZ53612",
+    "date": "2025-09-16",
+    "amount": -4324.66
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1429,
+    "supplier": "Cleaning supplier Z Group",
+    "number": "CZ53618",
+    "date": "2025-09-20",
+    "amount": 4324.66
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 211,
+    "supplier": "Packaging supplier C Services",
+    "number": "CN-PC-1887",
+    "date": "2025-02-06",
+    "amount": -5947.86
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 216,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC/1893",
+    "date": "2025-02-07",
+    "amount": 5947.86
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1662,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "CN-UK23869",
+    "date": "2025-11-06",
+    "amount": -3993.97
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1677,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK/23873",
+    "date": "2025-11-10",
+    "amount": 3993.97
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 919,
+    "supplier": "Energy supplier K Co.",
+    "number": "CN-EK-85988",
+    "date": "2025-06-21",
+    "amount": -3708.4
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 949,
+    "supplier": "Energy supplier K Co.",
+    "number": "EK-85989",
+    "date": "2025-06-25",
+    "amount": 3708.4
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 1265,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "CN-DA-7335",
+    "date": "2025-08-19",
+    "amount": -3556.3
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 1276,
+    "supplier": "Dairy supplier A Ltd",
+    "number": "DA7337",
+    "date": "2025-08-21",
+    "amount": 3556.3
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 664,
+    "supplier": "Pallet supplier L Supplies",
+    "number": "CN-PL-81992",
+    "date": "2025-05-06",
+    "amount": -694.34
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 686,
+    "supplier": "Pallet supplier L Supplies",
+    "number": "PL81995",
+    "date": "2025-05-10",
+    "amount": 694.34
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 202,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "CN-DGE-6111",
+    "date": "2025-02-05",
+    "amount": -1707.93
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 210,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE-6114",
+    "date": "2025-02-06",
+    "amount": 1707.93
+   }
+  },
+  {
+   "kind": "credit-note",
+   "row": {
+    "row": 237,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "CN-IS75181",
+    "date": "2025-02-11",
+    "amount": -3259.73
+   }
+  },
+  {
+   "kind": "replacement",
+   "row": {
+    "row": 274,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS-75185",
+    "date": "2025-02-15",
+    "amount": 3259.73
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 724,
+    "supplier": "Software supplier N2 Services",
+    "number": "SN-12338",
+    "date": "2025-05-16",
+    "amount": 5116.11
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1445,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG-45153",
+    "date": "2025-09-22",
+    "amount": 2694.83
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1659,
+    "supplier": "Insurance supplier M2 Services",
+    "number": "IM-27624",
+    "date": "2025-11-05",
+    "amount": 5004.16
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1534,
+    "supplier": "Fish supplier I2 & Sons",
+    "number": "FI-44707",
+    "date": "2025-10-09",
+    "amount": 2614.4
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 353,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB20421",
+    "date": "2025-03-02",
+    "amount": 3046.68
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1841,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG45154",
+    "date": "2025-12-14",
+    "amount": 1502.77
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 348,
+    "supplier": "Dry goods supplier Y Services",
+    "number": "DGY-18011",
+    "date": "2025-03-01",
+    "amount": 4060.36
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 674,
+    "supplier": "Fresh produce supplier B Supplies",
+    "number": "FPB20426",
+    "date": "2025-05-08",
+    "amount": 3076.91
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1428,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG-45159",
+    "date": "2025-09-19",
+    "amount": 4455.33
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 856,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20237",
+    "date": "2025-06-09",
+    "amount": 5173.66
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 299,
+    "supplier": "Dairy supplier U Trading",
+    "number": "DU-20687",
+    "date": "2025-02-20",
+    "amount": 2763.41
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1043,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS/75186",
+    "date": "2025-07-11",
+    "amount": 5395.02
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1304,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS-75191",
+    "date": "2025-08-25",
+    "amount": 2661.61
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 371,
+    "supplier": "Frozen foods supplier A2 Group",
+    "number": "FFA/54013",
+    "date": "2025-03-05",
+    "amount": 6163.69
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 687,
+    "supplier": "Software supplier N2 Services",
+    "number": "SN-12343",
+    "date": "2025-05-10",
+    "amount": 5116.11
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1925,
+    "supplier": "Dry goods supplier Y Services",
+    "number": "DGY18020",
+    "date": "2026-01-09",
+    "amount": 4868.63
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 295,
+    "supplier": "Catering equipment supplier P Ltd",
+    "number": "CEP-19223",
+    "date": "2025-02-19",
+    "amount": 6106.35
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1923,
+    "supplier": "Waste supplier G2 & Sons",
+    "number": "WG/45163",
+    "date": "2026-01-01",
+    "amount": 5921.54
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1924,
+    "supplier": "Dry goods supplier Y Services",
+    "number": "DGY-18028",
+    "date": "2026-01-08",
+    "amount": 6199.06
+   }
+  },
+  {
+   "kind": "same-amount-new-order",
+   "row": {
+    "row": 1617,
+    "supplier": "Drinks supplier I Co.",
+    "number": "DI-82603",
+    "date": "2025-10-27",
+    "amount": 1729.09
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 98,
+    "supplier": "Frozen foods supplier A2 Group",
+    "number": "FFA-54016",
+    "date": "2025-01-18",
+    "amount": 1052.79
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1411,
+    "supplier": "Insurance supplier S Ltd",
+    "number": "IS75193",
+    "date": "2025-09-16",
+    "amount": 5573.77
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 747,
+    "supplier": "Software supplier N2 Services",
+    "number": "SN-12352",
+    "date": "2025-05-20",
+    "amount": 5027.91
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1205,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE/23997",
+    "date": "2025-08-10",
+    "amount": 873.26
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 229,
+    "supplier": "Uniform supplier K2 Supplies",
+    "number": "UK-23880",
+    "date": "2025-02-09",
+    "amount": 1354.58
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1019,
+    "supplier": "Waste supplier M Services",
+    "number": "WM-15661",
+    "date": "2025-07-07",
+    "amount": 5395.02
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 704,
+    "supplier": "Pallet supplier F2 Limited",
+    "number": "PF-22212",
+    "date": "2025-05-13",
+    "amount": 3972.51
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 257,
+    "supplier": "Cleaning supplier F Co.",
+    "number": "CF-20246",
+    "date": "2025-02-14",
+    "amount": 1889.86
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1867,
+    "supplier": "Fresh produce supplier V Limited",
+    "number": "FPV-50672",
+    "date": "2025-12-18",
+    "amount": 91.43
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 767,
+    "supplier": "Packaging supplier W Trading",
+    "number": "PW-44946",
+    "date": "2025-05-23",
+    "amount": 590.66
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1768,
+    "supplier": "Drinks supplier C2 Limited",
+    "number": "DC/83429",
+    "date": "2025-11-28",
+    "amount": 4682.02
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1828,
+    "supplier": "Catering equipment supplier P Ltd",
+    "number": "CEP-19225",
+    "date": "2025-12-12",
+    "amount": 1153.68
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1758,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE-24001",
+    "date": "2025-11-25",
+    "amount": 684.22
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 160,
+    "supplier": "Frozen foods supplier A2 Group",
+    "number": "FFA-54019",
+    "date": "2025-01-27",
+    "amount": 4585.73
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1832,
+    "supplier": "Catering equipment supplier P Ltd",
+    "number": "CEP-19233",
+    "date": "2025-12-13",
+    "amount": 1502.77
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1647,
+    "supplier": "Bakery supplier D2 Ltd",
+    "number": "BD-25231",
+    "date": "2025-11-04",
+    "amount": 3918
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 570,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC-1900",
+    "date": "2025-04-18",
+    "amount": 4830.25
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1440,
+    "supplier": "Packaging supplier C Services",
+    "number": "PC-1902",
+    "date": "2025-09-21",
+    "amount": 2614.4
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 302,
+    "supplier": "Dry goods supplier E Trading",
+    "number": "DGE-6118",
+    "date": "2025-02-21",
+    "amount": 1698.92
+   }
+  },
+  {
+   "kind": "other-supplier-same-amount",
+   "row": {
+    "row": 1527,
+    "supplier": "Energy supplier E2 Group",
+    "number": "EE24002",
+    "date": "2025-10-08",
+    "amount": 354.61
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 33,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD-88714",
+    "date": "2025-01-05",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 186,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88723",
+    "date": "2025-02-03",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 361,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88732",
+    "date": "2025-03-03",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 490,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88737",
+    "date": "2025-04-01",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 642,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88744",
+    "date": "2025-05-03",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 813,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD-88753",
+    "date": "2025-06-02",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 977,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD-88756",
+    "date": "2025-07-02",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1181,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD-88765",
+    "date": "2025-08-05",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1345,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD/88773",
+    "date": "2025-09-03",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1491,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD-88775",
+    "date": "2025-10-03",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1658,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88780",
+    "date": "2025-11-05",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1792,
+    "supplier": "Haulage supplier D Ltd",
+    "number": "HD88789",
+    "date": "2025-12-04",
+    "amount": 1530.28
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 29,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46280",
+    "date": "2025-01-05",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 63,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46281",
+    "date": "2025-01-12",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 102,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46286",
+    "date": "2025-01-19",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 147,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46294",
+    "date": "2025-01-26",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 175,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46299",
+    "date": "2025-02-02",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 223,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46300",
+    "date": "2025-02-09",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 278,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46309",
+    "date": "2025-02-16",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 311,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46315",
+    "date": "2025-02-23",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 352,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46323",
+    "date": "2025-03-02",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 389,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46331",
+    "date": "2025-03-09",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 416,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46336",
+    "date": "2025-03-16",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 453,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46339",
+    "date": "2025-03-23",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 484,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46344",
+    "date": "2025-03-30",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 515,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46351",
+    "date": "2025-04-06",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 547,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46359",
+    "date": "2025-04-13",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 575,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46367",
+    "date": "2025-04-20",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 616,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46373",
+    "date": "2025-04-27",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 647,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46374",
+    "date": "2025-05-04",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 691,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46379",
+    "date": "2025-05-11",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 731,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46381",
+    "date": "2025-05-18",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 775,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46387",
+    "date": "2025-05-25",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 802,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46394",
+    "date": "2025-06-01",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 848,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46402",
+    "date": "2025-06-08",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 886,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46406",
+    "date": "2025-06-15",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 925,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46410",
+    "date": "2025-06-22",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 966,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46418",
+    "date": "2025-06-29",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1005,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46421",
+    "date": "2025-07-06",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1052,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46428",
+    "date": "2025-07-13",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1085,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46430",
+    "date": "2025-07-20",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1131,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46438",
+    "date": "2025-07-27",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1162,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46445",
+    "date": "2025-08-03",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1204,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46451",
+    "date": "2025-08-10",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1247,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46458",
+    "date": "2025-08-17",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1293,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46467",
+    "date": "2025-08-24",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1326,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46470",
+    "date": "2025-08-31",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1358,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46477",
+    "date": "2025-09-07",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1395,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46479",
+    "date": "2025-09-14",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1435,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46485",
+    "date": "2025-09-21",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1466,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46493",
+    "date": "2025-09-28",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1501,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46499",
+    "date": "2025-10-05",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1546,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46502",
+    "date": "2025-10-12",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1582,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46503",
+    "date": "2025-10-19",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1611,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46504",
+    "date": "2025-10-26",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1630,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46508",
+    "date": "2025-11-02",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1671,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46516",
+    "date": "2025-11-09",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1700,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46519",
+    "date": "2025-11-16",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1737,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46526",
+    "date": "2025-11-23",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1772,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46534",
+    "date": "2025-11-30",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1804,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH46540",
+    "date": "2025-12-07",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1836,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH/46546",
+    "date": "2025-12-14",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1875,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46548",
+    "date": "2025-12-21",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1917,
+    "supplier": "Chilled foods supplier H Supplies",
+    "number": "CFH-46557",
+    "date": "2025-12-28",
+    "amount": 988.58
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 13,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1450",
+    "date": "2025-01-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 189,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1459",
+    "date": "2025-02-03",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 355,
+    "supplier": "Meat supplier N Services",
+    "number": "MN/1460",
+    "date": "2025-03-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 493,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1468",
+    "date": "2025-04-01",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 649,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1475",
+    "date": "2025-05-04",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 814,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1476",
+    "date": "2025-06-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 999,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1480",
+    "date": "2025-07-05",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1160,
+    "supplier": "Meat supplier N Services",
+    "number": "MN1488",
+    "date": "2025-08-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1342,
+    "supplier": "Meat supplier N Services",
+    "number": "MN/1494",
+    "date": "2025-09-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1509,
+    "supplier": "Meat supplier N Services",
+    "number": "MN1497",
+    "date": "2025-10-05",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1634,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1501",
+    "date": "2025-11-02",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1789,
+    "supplier": "Meat supplier N Services",
+    "number": "MN-1509",
+    "date": "2025-12-03",
+    "amount": 1097.93
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 37,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66139",
+    "date": "2025-01-05",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 71,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66148",
+    "date": "2025-01-12",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 107,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66156",
+    "date": "2025-01-19",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 153,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66158",
+    "date": "2025-01-26",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 183,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66164",
+    "date": "2025-02-02",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 228,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66173",
+    "date": "2025-02-09",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 284,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66174",
+    "date": "2025-02-16",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 317,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66182",
+    "date": "2025-02-23",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 357,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66191",
+    "date": "2025-03-02",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 393,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66198",
+    "date": "2025-03-09",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 419,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66204",
+    "date": "2025-03-16",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 458,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66205",
+    "date": "2025-03-23",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 486,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66211",
+    "date": "2025-03-30",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 519,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66220",
+    "date": "2025-04-06",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 549,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66223",
+    "date": "2025-04-13",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 580,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66231",
+    "date": "2025-04-20",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 624,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66236",
+    "date": "2025-04-27",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 652,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66243",
+    "date": "2025-05-04",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 696,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66250",
+    "date": "2025-05-11",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 735,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66252",
+    "date": "2025-05-18",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 784,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66258",
+    "date": "2025-05-25",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 808,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66267",
+    "date": "2025-06-01",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 852,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66275",
+    "date": "2025-06-08",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 890,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66277",
+    "date": "2025-06-15",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 929,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66281",
+    "date": "2025-06-22",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 969,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66288",
+    "date": "2025-06-29",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1009,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66291",
+    "date": "2025-07-06",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1057,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66293",
+    "date": "2025-07-13",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1093,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66294",
+    "date": "2025-07-20",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1137,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66295",
+    "date": "2025-07-27",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1169,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66299",
+    "date": "2025-08-03",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1208,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66306",
+    "date": "2025-08-10",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1254,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66311",
+    "date": "2025-08-17",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1299,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66318",
+    "date": "2025-08-24",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1328,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66319",
+    "date": "2025-08-31",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1363,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66328",
+    "date": "2025-09-07",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1401,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66334",
+    "date": "2025-09-14",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1442,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66337",
+    "date": "2025-09-21",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1472,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66345",
+    "date": "2025-09-28",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1512,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66347",
+    "date": "2025-10-05",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1552,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66350",
+    "date": "2025-10-12",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1586,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66355",
+    "date": "2025-10-19",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1615,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66362",
+    "date": "2025-10-26",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1636,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66371",
+    "date": "2025-11-02",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1673,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR/66376",
+    "date": "2025-11-09",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1704,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR66380",
+    "date": "2025-11-16",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1746,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66382",
+    "date": "2025-11-23",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1774,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66391",
+    "date": "2025-11-30",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1807,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66394",
+    "date": "2025-12-07",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1840,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66402",
+    "date": "2025-12-14",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1880,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66408",
+    "date": "2025-12-21",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1921,
+    "supplier": "Pest control supplier R Limited",
+    "number": "PCR-66409",
+    "date": "2025-12-28",
+    "amount": 576.45
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 34,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61518",
+    "date": "2025-01-05",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 179,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX/61524",
+    "date": "2025-02-02",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 362,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61529",
+    "date": "2025-03-03",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 491,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX/61538",
+    "date": "2025-04-01",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 634,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61542",
+    "date": "2025-05-01",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 822,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX/61550",
+    "date": "2025-06-03",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 993,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX/61554",
+    "date": "2025-07-04",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1155,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61561",
+    "date": "2025-08-01",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1332,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61564",
+    "date": "2025-09-01",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1492,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61572",
+    "date": "2025-10-03",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1649,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX61577",
+    "date": "2025-11-04",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1778,
+    "supplier": "Haulage supplier X Group",
+    "number": "HX-61579",
+    "date": "2025-12-01",
+    "amount": 1762.79
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 28,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87518",
+    "date": "2025-01-05",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 62,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87526",
+    "date": "2025-01-12",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 101,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87535",
+    "date": "2025-01-19",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 146,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87537",
+    "date": "2025-01-26",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 174,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87544",
+    "date": "2025-02-02",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 222,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87546",
+    "date": "2025-02-09",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 277,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87554",
+    "date": "2025-02-16",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 310,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87562",
+    "date": "2025-02-23",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 351,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87570",
+    "date": "2025-03-02",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 388,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87576",
+    "date": "2025-03-09",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 415,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87581",
+    "date": "2025-03-16",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 452,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87590",
+    "date": "2025-03-23",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 483,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87598",
+    "date": "2025-03-30",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 514,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87602",
+    "date": "2025-04-06",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 546,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87607",
+    "date": "2025-04-13",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 574,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87613",
+    "date": "2025-04-20",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 615,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87619",
+    "date": "2025-04-27",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 646,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87628",
+    "date": "2025-05-04",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 690,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87637",
+    "date": "2025-05-11",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 730,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87645",
+    "date": "2025-05-18",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 774,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87653",
+    "date": "2025-05-25",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 801,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87660",
+    "date": "2025-06-01",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 847,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87668",
+    "date": "2025-06-08",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 885,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87671",
+    "date": "2025-06-15",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 924,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87673",
+    "date": "2025-06-22",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 965,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87679",
+    "date": "2025-06-29",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1004,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87684",
+    "date": "2025-07-06",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1051,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87688",
+    "date": "2025-07-13",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1084,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87689",
+    "date": "2025-07-20",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1130,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87695",
+    "date": "2025-07-27",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1161,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87696",
+    "date": "2025-08-03",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1203,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87701",
+    "date": "2025-08-10",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1246,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87710",
+    "date": "2025-08-17",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1292,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87715",
+    "date": "2025-08-24",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1325,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87720",
+    "date": "2025-08-31",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1357,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87727",
+    "date": "2025-09-07",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1394,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87730",
+    "date": "2025-09-14",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1434,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87731",
+    "date": "2025-09-21",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1465,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87736",
+    "date": "2025-09-28",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1500,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87737",
+    "date": "2025-10-05",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1545,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87744",
+    "date": "2025-10-12",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1581,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87746",
+    "date": "2025-10-19",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1610,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87755",
+    "date": "2025-10-26",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1629,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87756",
+    "date": "2025-11-02",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1670,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87757",
+    "date": "2025-11-09",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1699,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB/87759",
+    "date": "2025-11-16",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1736,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB87768",
+    "date": "2025-11-23",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1771,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87772",
+    "date": "2025-11-30",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1803,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87774",
+    "date": "2025-12-07",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1835,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87775",
+    "date": "2025-12-14",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1874,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87778",
+    "date": "2025-12-21",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1916,
+    "supplier": "Chilled foods supplier B2 Limited",
+    "number": "CFB-87781",
+    "date": "2025-12-28",
+    "amount": 380.03
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 35,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11110",
+    "date": "2025-01-05",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 197,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11118",
+    "date": "2025-02-04",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 368,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH/11123",
+    "date": "2025-03-04",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 492,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11131",
+    "date": "2025-04-01",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 643,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11132",
+    "date": "2025-05-03",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 829,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH11141",
+    "date": "2025-06-04",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 978,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH/11143",
+    "date": "2025-07-02",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1182,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11145",
+    "date": "2025-08-05",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1352,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11146",
+    "date": "2025-09-05",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1497,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11151",
+    "date": "2025-10-04",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1641,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11158",
+    "date": "2025-11-03",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "monthly-fee",
+   "row": {
+    "row": 1799,
+    "supplier": "Meat supplier H2 Ltd",
+    "number": "MH-11159",
+    "date": "2025-12-05",
+    "amount": 1176.56
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 36,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17546",
+    "date": "2025-01-05",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 70,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17552",
+    "date": "2025-01-12",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 106,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17558",
+    "date": "2025-01-19",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 152,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17559",
+    "date": "2025-01-26",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 182,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17566",
+    "date": "2025-02-02",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 227,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17570",
+    "date": "2025-02-09",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 283,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17571",
+    "date": "2025-02-16",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 316,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17574",
+    "date": "2025-02-23",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 356,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17576",
+    "date": "2025-03-02",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 392,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17579",
+    "date": "2025-03-09",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 418,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17583",
+    "date": "2025-03-16",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 457,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17591",
+    "date": "2025-03-23",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 485,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17594",
+    "date": "2025-03-30",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 518,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17598",
+    "date": "2025-04-06",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 548,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17605",
+    "date": "2025-04-13",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 579,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17607",
+    "date": "2025-04-20",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 623,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17615",
+    "date": "2025-04-27",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 651,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17621",
+    "date": "2025-05-04",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 695,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17622",
+    "date": "2025-05-11",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 734,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17624",
+    "date": "2025-05-18",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 783,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17629",
+    "date": "2025-05-25",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 807,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17633",
+    "date": "2025-06-01",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 851,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17637",
+    "date": "2025-06-08",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 889,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17643",
+    "date": "2025-06-15",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 928,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17651",
+    "date": "2025-06-22",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 968,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17652",
+    "date": "2025-06-29",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1008,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17654",
+    "date": "2025-07-06",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1056,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17655",
+    "date": "2025-07-13",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1092,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17663",
+    "date": "2025-07-20",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1136,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17670",
+    "date": "2025-07-27",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1168,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17673",
+    "date": "2025-08-03",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1207,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17675",
+    "date": "2025-08-10",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1253,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17682",
+    "date": "2025-08-17",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1298,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17683",
+    "date": "2025-08-24",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1327,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17689",
+    "date": "2025-08-31",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1362,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17695",
+    "date": "2025-09-07",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1400,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17703",
+    "date": "2025-09-14",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1441,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17711",
+    "date": "2025-09-21",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1471,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17717",
+    "date": "2025-09-28",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1511,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17718",
+    "date": "2025-10-05",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1551,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17720",
+    "date": "2025-10-12",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1585,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17724",
+    "date": "2025-10-19",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1614,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17729",
+    "date": "2025-10-26",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1635,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17734",
+    "date": "2025-11-02",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1672,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17741",
+    "date": "2025-11-09",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1703,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17748",
+    "date": "2025-11-16",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1745,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17756",
+    "date": "2025-11-23",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1773,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17765",
+    "date": "2025-11-30",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1806,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17767",
+    "date": "2025-12-07",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1839,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL-17769",
+    "date": "2025-12-14",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1879,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL17774",
+    "date": "2025-12-21",
+    "amount": 435.92
+   }
+  },
+  {
+   "kind": "weekly-charge",
+   "row": {
+    "row": 1920,
+    "supplier": "Pest control supplier L2 Group",
+    "number": "PCL/17778",
+    "date": "2025-12-28",
+    "amount": 435.92
+   }
+  }
+ ],
+ "counts": {
+  "duplicates_by_kind": {
+   "resend-new-number": 20,
+   "number-variant": 20,
+   "supplier-variant": 20,
+   "credit-cancelled-resent": 20,
+   "resend-outside-30-days": 20,
+   "same-number-amount-corrected": 20,
+   "entered-twice-same-day": 20
+  },
+  "traps_by_kind": {
+   "credit-note": 20,
+   "replacement": 20,
+   "same-amount-new-order": 20,
+   "other-supplier-same-amount": 20,
+   "monthly-fee": 48,
+   "weekly-charge": 208
+  }
+ }
+}

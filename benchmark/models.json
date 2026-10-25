@@ -1,0 +1,184 @@
+[
+ {
+  "id": "ours-30",
+  "short": "ours, 30d",
+  "label": "stackforagents free check, 30-day window",
+  "compares": "supplier, number, amount, date; credit notes; fixed charges",
+  "runner": "ours:30",
+  "kind": "ours"
+ },
+ {
+  "id": "ours-60",
+  "short": "ours, 60d",
+  "label": "stackforagents free check, 60-day window",
+  "compares": "the same, 60-day window",
+  "runner": "ours:60",
+  "kind": "ours"
+ },
+ {
+  "id": "xero",
+  "short": "Xero",
+  "label": "Xero, as documented",
+  "compares": "contact + reference + amount, exact",
+  "runner": "exact:supplier+reference+amount",
+  "kind": "documented",
+  "quote_intro": "Xero Central, on reviewing duplicate bills:",
+  "quote": "Xero compares the contact, reference and amount of all the bills and credit notes",
+  "url": "https://central.xero.com/s/article/Review-duplicate-bills-or-credit-notes"
+ },
+ {
+  "id": "qbo",
+  "short": "QuickBooks Online",
+  "label": "QuickBooks Online, as answered on Intuit's community",
+  "compares": "bill number, exact, any supplier",
+  "runner": "exact:reference",
+  "kind": "documented",
+  "quote_intro": "An answer on Intuit's QuickBooks community, on the setting that warns about duplicate bill numbers:",
+  "quote": "QuickBooks will notify if a bill number you're using is already in the system",
+  "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/how-do-i-set-the-bill-no-to-tell-me-this-number-has-already-been-used-67377"
+ },
+ {
+  "id": "netsuite",
+  "short": "NetSuite",
+  "label": "NetSuite, as documented",
+  "compares": "vendor + document number, exact",
+  "runner": "exact:supplier+reference",
+  "kind": "documented",
+  "quote_intro": "Oracle's NetSuite help, on the Duplicate Number Warnings preference: a warning or a block when a transaction has",
+  "quote": "the same document number as another record of the same type",
+  "url": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N547300.html"
+ },
+ {
+  "id": "intacct",
+  "short": "Sage Intacct",
+  "label": "Sage Intacct, as documented",
+  "compares": "vendor + bill number, exact",
+  "runner": "exact:supplier+reference",
+  "kind": "documented",
+  "quote_intro": "Sage Intacct's Accounts Payable configuration help, on duplicate numbers:",
+  "quote": "For bills and adjustments, this action applies per vendor only.",
+  "url": "https://www.intacct.com/ia/docs/en_US/help_action/Accounts_Payable/Setup/Configure/field-by-field-configure-ap.htm"
+ },
+ {
+  "id": "oracle-fusion",
+  "short": "Oracle Fusion Payables (import)",
+  "label": "Oracle Fusion Cloud Payables, invoice import, as documented",
+  "compares": "supplier + invoice number, exact",
+  "runner": "exact:supplier+reference",
+  "kind": "documented",
+  "quote_intro": "Oracle's Fusion Payables documentation, on the invoice number in the import interface:",
+  "quote": "Must be a unique number for the supplier.",
+  "url": "https://docs.oracle.com/en/cloud/saas/financials/25d/fappp/invoice-open-interface-table-ap-invoices-interface.html"
+ },
+ {
+  "id": "tipalti",
+  "short": "Tipalti",
+  "label": "Tipalti, as documented",
+  "compares": "payee + invoice number, exact",
+  "runner": "exact:supplier+reference",
+  "kind": "documented",
+  "quote_intro": "Tipalti's help centre, on reviewing bills:",
+  "quote": "Duplicate bills are identified based on: Same payee, Same invoice number",
+  "url": "https://help.tipalti.com/hc/en-us/articles/40117131678359-Review-and-collaborate-on-bills"
+ },
+ {
+  "id": "sage50",
+  "short": "Sage 50 (UK)",
+  "label": "Sage 50 Accounts (UK), as documented",
+  "compares": "account + date + reference + net amount, exact",
+  "runner": "exact:supplier+reference+amount+date",
+  "kind": "documented",
+  "quote_intro": "Sage's UK knowledge base, on the batch entry duplicate check: flagged transactions must have the same",
+  "quote": "Accounts reference, Date, Reference, Net amount",
+  "url": "https://gb-kb.sage.com/portal/app/portlets/results/viewsolution.jsp?solutionid=200427112411374"
+ },
+ {
+  "id": "sage200",
+  "short": "Sage 200 (single entry)",
+  "label": "Sage 200 Professional, single invoice entry, as documented",
+  "compares": "date + reference number, exact",
+  "runner": "exact:supplier+reference+date",
+  "kind": "documented",
+  "quote_intro": "Sage 200 Professional help, on entering a purchase invoice: it checks that",
+  "quote": "you haven't already entered an invoice for the same date and reference number",
+  "url": "https://desktophelp.sage.co.uk/sage200/professional/Content/PL/PurchaseInvoice.htm"
+ },
+ {
+  "id": "sap",
+  "short": "SAP (LIV)",
+  "label": "SAP ERP Logistics Invoice Verification, as documented",
+  "compares": "vendor + amount + reference + invoice date, exact (plus currency and company code)",
+  "runner": "exact:supplier+reference+amount+date",
+  "kind": "documented",
+  "quote_intro": "SAP's help on the duplicate invoice check, the fields it compares:",
+  "quote": "Vendor, Currency, Company code, Gross invoice amount, Reference document number, Invoice doc. date",
+  "url": "https://help.sap.com/docs/SAP_ERP_SPV/98eed63ea3a544af84eb972dc68b0e84/a971b6531de6b64ce10000000a174cb4.html?locale=en-US"
+ },
+ {
+  "id": "business-central",
+  "short": "Business Central",
+  "label": "Dynamics 365 Business Central, as documented: no check",
+  "compares": "nothing: the help says external document numbers are not checked",
+  "runner": "none",
+  "kind": "documented",
+  "quote_intro": "Microsoft's Business Central help, on external document numbers:",
+  "quote": "Business Central doesn't check if these external document numbers are unique or duplicates.",
+  "url": "https://learn.microsoft.com/en-us/dynamics365/business-central/across-enter-external-document-numbers"
+ },
+ {
+  "id": "exact-online",
+  "short": "Exact Online",
+  "label": "Exact Online",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "xelix",
+  "short": "Xelix",
+  "label": "Xelix",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "fiscal",
+  "short": "FISCAL Technologies",
+  "label": "FISCAL Technologies",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "appzen",
+  "short": "AppZen",
+  "label": "AppZen",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "stampli",
+  "short": "Stampli",
+  "label": "Stampli",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "medius",
+  "short": "Medius",
+  "label": "Medius",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ },
+ {
+  "id": "yooz",
+  "short": "Yooz",
+  "label": "Yooz",
+  "compares": "",
+  "runner": "",
+  "kind": "documented"
+ }
+]

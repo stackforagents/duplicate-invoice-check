@@ -1,0 +1,917 @@
+{
+ "seed": 23,
+ "rows": 1924,
+ "planted": {
+  "duplicates_by_kind": {
+   "resend-new-number": 20,
+   "number-variant": 20,
+   "supplier-variant": 20,
+   "credit-cancelled-resent": 20,
+   "resend-outside-30-days": 20,
+   "same-number-amount-corrected": 20,
+   "entered-twice-same-day": 20
+  },
+  "traps_by_kind": {
+   "credit-note": 20,
+   "replacement": 20,
+   "same-amount-new-order": 20,
+   "other-supplier-same-amount": 20,
+   "monthly-fee": 48,
+   "weekly-charge": 208
+  }
+ },
+ "models": [
+  {
+   "id": "ours-30",
+   "short": "ours, 30d",
+   "label": "stackforagents free check, 30-day window",
+   "compares": "supplier, number, amount, date; credit notes; fixed charges",
+   "runner": "ours:30",
+   "kind": "ours",
+   "scored": true,
+   "result": {
+    "flagged": 140,
+    "found": 120,
+    "planted": 140,
+    "false_alarms": 20,
+    "precision": 0.857,
+    "recall": 0.857,
+    "value_planted": 463969.85,
+    "value_found": 410273.17,
+    "value_recall": 0.884,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 20,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "ours-60",
+   "short": "ours, 60d",
+   "label": "stackforagents free check, 60-day window",
+   "compares": "the same, 60-day window",
+   "runner": "ours:60",
+   "kind": "ours",
+   "scored": true,
+   "result": {
+    "flagged": 156,
+    "found": 136,
+    "planted": 140,
+    "false_alarms": 20,
+    "precision": 0.872,
+    "recall": 0.971,
+    "value_planted": 463969.85,
+    "value_found": 449094.99,
+    "value_recall": 0.968,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 16,
+      "recall": 0.8
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 20,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "xero",
+   "short": "Xero",
+   "label": "Xero, as documented",
+   "compares": "contact + reference + amount, exact",
+   "runner": "exact:supplier+reference+amount",
+   "kind": "documented",
+   "quote_intro": "Xero Central, on reviewing duplicate bills:",
+   "quote": "Xero compares the contact, reference and amount of all the bills and credit notes",
+   "url": "https://central.xero.com/s/article/Review-duplicate-bills-or-credit-notes",
+   "scored": true,
+   "result": {
+    "flagged": 40,
+    "found": 40,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.286,
+    "value_planted": 463969.85,
+    "value_found": 129196.69,
+    "value_recall": 0.278,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "qbo",
+   "short": "QuickBooks Online",
+   "label": "QuickBooks Online, as answered on Intuit's community",
+   "compares": "bill number, exact, any supplier",
+   "runner": "exact:reference",
+   "kind": "documented",
+   "quote_intro": "An answer on Intuit's QuickBooks community, on the setting that warns about duplicate bill numbers:",
+   "quote": "QuickBooks will notify if a bill number you're using is already in the system",
+   "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/how-do-i-set-the-bill-no-to-tell-me-this-number-has-already-been-used-67377",
+   "scored": true,
+   "result": {
+    "flagged": 80,
+    "found": 80,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.571,
+    "value_planted": 463969.85,
+    "value_found": 273439.51,
+    "value_recall": 0.589,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "netsuite",
+   "short": "NetSuite",
+   "label": "NetSuite, as documented",
+   "compares": "vendor + document number, exact",
+   "runner": "exact:supplier+reference",
+   "kind": "documented",
+   "quote_intro": "Oracle's NetSuite help, on the Duplicate Number Warnings preference: a warning or a block when a transaction has",
+   "quote": "the same document number as another record of the same type",
+   "url": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N547300.html",
+   "scored": true,
+   "result": {
+    "flagged": 60,
+    "found": 60,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.429,
+    "value_planted": 463969.85,
+    "value_found": 205728.36,
+    "value_recall": 0.443,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "intacct",
+   "short": "Sage Intacct",
+   "label": "Sage Intacct, as documented",
+   "compares": "vendor + bill number, exact",
+   "runner": "exact:supplier+reference",
+   "kind": "documented",
+   "quote_intro": "Sage Intacct's Accounts Payable configuration help, on duplicate numbers:",
+   "quote": "For bills and adjustments, this action applies per vendor only.",
+   "url": "https://www.intacct.com/ia/docs/en_US/help_action/Accounts_Payable/Setup/Configure/field-by-field-configure-ap.htm",
+   "scored": true,
+   "result": {
+    "flagged": 60,
+    "found": 60,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.429,
+    "value_planted": 463969.85,
+    "value_found": 205728.36,
+    "value_recall": 0.443,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "oracle-fusion",
+   "short": "Oracle Fusion Payables (import)",
+   "label": "Oracle Fusion Cloud Payables, invoice import, as documented",
+   "compares": "supplier + invoice number, exact",
+   "runner": "exact:supplier+reference",
+   "kind": "documented",
+   "quote_intro": "Oracle's Fusion Payables documentation, on the invoice number in the import interface:",
+   "quote": "Must be a unique number for the supplier.",
+   "url": "https://docs.oracle.com/en/cloud/saas/financials/25d/fappp/invoice-open-interface-table-ap-invoices-interface.html",
+   "scored": true,
+   "result": {
+    "flagged": 60,
+    "found": 60,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.429,
+    "value_planted": 463969.85,
+    "value_found": 205728.36,
+    "value_recall": 0.443,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "tipalti",
+   "short": "Tipalti",
+   "label": "Tipalti, as documented",
+   "compares": "payee + invoice number, exact",
+   "runner": "exact:supplier+reference",
+   "kind": "documented",
+   "quote_intro": "Tipalti's help centre, on reviewing bills:",
+   "quote": "Duplicate bills are identified based on: Same payee, Same invoice number",
+   "url": "https://help.tipalti.com/hc/en-us/articles/40117131678359-Review-and-collaborate-on-bills",
+   "scored": true,
+   "result": {
+    "flagged": 60,
+    "found": 60,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.429,
+    "value_planted": 463969.85,
+    "value_found": 205728.36,
+    "value_recall": 0.443,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "sage50",
+   "short": "Sage 50 (UK)",
+   "label": "Sage 50 Accounts (UK), as documented",
+   "compares": "account + date + reference + net amount, exact",
+   "runner": "exact:supplier+reference+amount+date",
+   "kind": "documented",
+   "quote_intro": "Sage's UK knowledge base, on the batch entry duplicate check: flagged transactions must have the same",
+   "quote": "Accounts reference, Date, Reference, Net amount",
+   "url": "https://gb-kb.sage.com/portal/app/portlets/results/viewsolution.jsp?solutionid=200427112411374",
+   "scored": true,
+   "result": {
+    "flagged": 20,
+    "found": 20,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.143,
+    "value_planted": 463969.85,
+    "value_found": 74741.05,
+    "value_recall": 0.161,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "sage200",
+   "short": "Sage 200 (single entry)",
+   "label": "Sage 200 Professional, single invoice entry, as documented",
+   "compares": "date + reference number, exact",
+   "runner": "exact:supplier+reference+date",
+   "kind": "documented",
+   "quote_intro": "Sage 200 Professional help, on entering a purchase invoice: it checks that",
+   "quote": "you haven't already entered an invoice for the same date and reference number",
+   "url": "https://desktophelp.sage.co.uk/sage200/professional/Content/PL/PurchaseInvoice.htm",
+   "scored": true,
+   "result": {
+    "flagged": 20,
+    "found": 20,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.143,
+    "value_planted": 463969.85,
+    "value_found": 74741.05,
+    "value_recall": 0.161,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "sap",
+   "short": "SAP (LIV)",
+   "label": "SAP ERP Logistics Invoice Verification, as documented",
+   "compares": "vendor + amount + reference + invoice date, exact (plus currency and company code)",
+   "runner": "exact:supplier+reference+amount+date",
+   "kind": "documented",
+   "quote_intro": "SAP's help on the duplicate invoice check, the fields it compares:",
+   "quote": "Vendor, Currency, Company code, Gross invoice amount, Reference document number, Invoice doc. date",
+   "url": "https://help.sap.com/docs/SAP_ERP_SPV/98eed63ea3a544af84eb972dc68b0e84/a971b6531de6b64ce10000000a174cb4.html?locale=en-US",
+   "scored": true,
+   "result": {
+    "flagged": 20,
+    "found": 20,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 1,
+    "recall": 0.143,
+    "value_planted": 463969.85,
+    "value_found": 74741.05,
+    "value_recall": 0.161,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 20,
+      "recall": 1
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "business-central",
+   "short": "Business Central",
+   "label": "Dynamics 365 Business Central, as documented: no check",
+   "compares": "nothing: the help says external document numbers are not checked",
+   "runner": "none",
+   "kind": "documented",
+   "quote_intro": "Microsoft's Business Central help, on external document numbers:",
+   "quote": "Business Central doesn't check if these external document numbers are unique or duplicates.",
+   "url": "https://learn.microsoft.com/en-us/dynamics365/business-central/across-enter-external-document-numbers",
+   "scored": true,
+   "result": {
+    "flagged": 0,
+    "found": 0,
+    "planted": 140,
+    "false_alarms": 0,
+    "precision": 0,
+    "recall": 0,
+    "value_planted": 463969.85,
+    "value_found": 0,
+    "value_recall": 0,
+    "by_kind": {
+     "resend-new-number": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "number-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "supplier-variant": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "credit-cancelled-resent": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "resend-outside-30-days": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "same-number-amount-corrected": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     },
+     "entered-twice-same-day": {
+      "planted": 20,
+      "found": 0,
+      "recall": 0
+     }
+    },
+    "false_alarms_by_trap": {
+     "other": 0,
+     "credit-note": 0,
+     "replacement": 0,
+     "same-amount-new-order": 0,
+     "other-supplier-same-amount": 0,
+     "monthly-fee": 0,
+     "weekly-charge": 0
+    }
+   }
+  },
+  {
+   "id": "exact-online",
+   "short": "Exact Online",
+   "label": "Exact Online",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "xelix",
+   "short": "Xelix",
+   "label": "Xelix",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "fiscal",
+   "short": "FISCAL Technologies",
+   "label": "FISCAL Technologies",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "appzen",
+   "short": "AppZen",
+   "label": "AppZen",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "stampli",
+   "short": "Stampli",
+   "label": "Stampli",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "medius",
+   "short": "Medius",
+   "label": "Medius",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  },
+  {
+   "id": "yooz",
+   "short": "Yooz",
+   "label": "Yooz",
+   "compares": "",
+   "runner": "",
+   "kind": "documented",
+   "scored": false,
+   "reason": "no runner "
+  }
+ ]
+}

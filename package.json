@@ -1,0 +1,13 @@
+{
+  "name": "duplicate-invoice-check",
+  "version": "1.0.0",
+  "description": "Four rules that find suspected duplicate supplier invoices in a purchase ledger export. Runs in the browser or on the command line. No network, no state.",
+  "license": "MIT",
+  "main": "src/dupcheck.js",
+  "bin": { "dupcheck": "bin/dupcheck.js" },
+  "scripts": { "test": "node --test test/dupcheck.test.mjs test/benchmark.test.mjs" },
+  "engines": { "node": ">=20" },
+  "repository": { "type": "git", "url": "https://github.com/stackforagents/duplicate-invoice-check" },
+  "homepage": "https://stackforagents.com/duplicate-invoice-check",
+  "keywords": ["accounts-payable", "duplicate-invoices", "duplicate-payments", "purchase-ledger", "csv", "finance"]
+}
