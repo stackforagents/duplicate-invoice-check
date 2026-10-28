@@ -163,6 +163,7 @@
    "quote_intro": "Xero Central, on reviewing duplicate bills:",
    "quote": "Xero compares the contact, reference and amount of all the bills and credit notes",
    "url": "https://central.xero.com/s/article/Review-duplicate-bills-or-credit-notes",
+   "note": "We read that as all three matching; the page does not say so in those words.",
    "scored": true,
    "result": {
     "flagged": 40,
@@ -226,23 +227,23 @@
    "id": "qbo",
    "short": "QuickBooks Online",
    "label": "QuickBooks Online, as answered on Intuit's community",
-   "compares": "bill number, exact, any supplier",
-   "runner": "exact:reference",
+   "compares": "vendor + bill number, exact",
+   "runner": "exact:supplier+reference",
    "kind": "documented",
-   "quote_intro": "An answer on Intuit's QuickBooks community, on the setting that warns about duplicate bill numbers:",
-   "quote": "QuickBooks will notify if a bill number you're using is already in the system",
-   "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/how-do-i-set-the-bill-no-to-tell-me-this-number-has-already-been-used-67377",
+   "quote_intro": "An answer on Intuit's QuickBooks community, not a help article, names the setting under Account and Settings that warns when someone enters a",
+   "quote": "bill number that’s already been used for that vendor",
+   "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/does-qb-online-catch-duplicate-bill-pay-43797",
    "scored": true,
    "result": {
-    "flagged": 80,
-    "found": 80,
+    "flagged": 60,
+    "found": 60,
     "planted": 140,
     "false_alarms": 0,
     "precision": 1,
-    "recall": 0.571,
+    "recall": 0.429,
     "value_planted": 463969.85,
-    "value_found": 273439.51,
-    "value_recall": 0.589,
+    "value_found": 205728.36,
+    "value_recall": 0.443,
     "by_kind": {
      "resend-new-number": {
       "planted": 20,
@@ -256,8 +257,8 @@
      },
      "supplier-variant": {
       "planted": 20,
-      "found": 20,
-      "recall": 1
+      "found": 0,
+      "recall": 0
      },
      "credit-cancelled-resent": {
       "planted": 20,
@@ -295,23 +296,24 @@
    "id": "netsuite",
    "short": "NetSuite",
    "label": "NetSuite, as documented",
-   "compares": "vendor + document number, exact",
-   "runner": "exact:supplier+reference",
+   "compares": "document number, same record type, exact",
+   "runner": "exact:reference",
    "kind": "documented",
    "quote_intro": "Oracle's NetSuite help, on the Duplicate Number Warnings preference: a warning or a block when a transaction has",
    "quote": "the same document number as another record of the same type",
    "url": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N547300.html",
+   "note": "The preference page does not limit the check to one vendor, so the row matches the number across vendors.",
    "scored": true,
    "result": {
-    "flagged": 60,
-    "found": 60,
+    "flagged": 80,
+    "found": 80,
     "planted": 140,
     "false_alarms": 0,
     "precision": 1,
-    "recall": 0.429,
+    "recall": 0.571,
     "value_planted": 463969.85,
-    "value_found": 205728.36,
-    "value_recall": 0.443,
+    "value_found": 273439.51,
+    "value_recall": 0.589,
     "by_kind": {
      "resend-new-number": {
       "planted": 20,
@@ -325,8 +327,8 @@
      },
      "supplier-variant": {
       "planted": 20,
-      "found": 0,
-      "recall": 0
+      "found": 20,
+      "recall": 1
      },
      "credit-cancelled-resent": {
       "planted": 20,
@@ -505,8 +507,8 @@
    "compares": "payee + invoice number, exact",
    "runner": "exact:supplier+reference",
    "kind": "documented",
-   "quote_intro": "Tipalti's help centre, on reviewing bills:",
-   "quote": "Duplicate bills are identified based on: Same payee, Same invoice number",
+   "quote_intro": "Tipalti's help centre lists what makes a duplicate:",
+   "quote": "Same payee, Same invoice number",
    "url": "https://help.tipalti.com/hc/en-us/articles/40117131678359-Review-and-collaborate-on-bills",
    "scored": true,
    "result": {
@@ -708,11 +710,11 @@
   {
    "id": "sap",
    "short": "SAP (LIV)",
-   "label": "SAP ERP Logistics Invoice Verification, as documented",
+   "label": "SAP ERP 6.0 Logistics Invoice Verification, as documented",
    "compares": "vendor + amount + reference + invoice date, exact (plus currency and company code)",
    "runner": "exact:supplier+reference+amount+date",
    "kind": "documented",
-   "quote_intro": "SAP's help on the duplicate invoice check, the fields it compares:",
+   "quote_intro": "SAP's help on the duplicate invoice check lists the fields it compares:",
    "quote": "Vendor, Currency, Company code, Gross invoice amount, Reference document number, Invoice doc. date",
    "url": "https://help.sap.com/docs/SAP_ERP_SPV/98eed63ea3a544af84eb972dc68b0e84/a971b6531de6b64ce10000000a174cb4.html?locale=en-US",
    "scored": true,

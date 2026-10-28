@@ -77,7 +77,7 @@ lines.push("");
 lines.push("We did not run the vendors' software. Each \"as documented\" row runs the rule the vendor's own help page describes, exactly and no more, on this ledger. If a page says the check compares the supplier and the bill number, the row flags a later bill whose supplier and number match an earlier one to the letter. The quotes:");
 lines.push("");
 documented.forEach((m) => {
-  if (m.quote) { lines.push(`- **${m.label}.** ${m.quote_intro || "Their help page says:"} "${m.quote}" ([source](${m.url}))`); }
+  if (m.quote) { lines.push(`- **${m.label}.** ${m.quote_intro || "Their help page says:"} "${m.quote}" ([source](${m.url}))${m.note ? " " + m.note : ""}`); }
 });
 const unscored = results.models.filter((m) => !m.scored);
 if (unscored.length) {
